@@ -4,12 +4,12 @@
 
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser or contact me... 🤣
 
-# This Application can be used to...
+# This Application can be used in...
 
 - Banks.
 - Social Media Database.
 - Lan.
 - Local Bussines.
-- and for any other business that has money involved 🤑
+- and any other business that has money involved 🤑
 
 # Builded w/ React.js, Node.js and database in Mongo.db! 
