@@ -2,14 +2,13 @@
 
 ### `npm start`
 
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser or contact me... 🤣
+Open [http://localhost:3000](http://localhost:3000)
 
-# This Application can be used in...
+# Essa aplicação pode ser usada em...
 
-- Banks.
-- Social Media Database.
-- Lan.
-- Local Bussines.
+- Bancos.
+- Lans.
+- Negócios locais.
 - and any other business that has money involved 🤑
 
-# Builded w/ React.js, Node.js and database in Mongo.db! 
+# Construido com React.js, Node.js e banco de dados no Mongo.db! 
